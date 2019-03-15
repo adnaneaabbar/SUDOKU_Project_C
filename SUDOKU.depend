@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1548354105 source:c:\users\toshiba\desktop\sudoku_beta\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+
+1548802210 source:c:\users\toshiba\desktop\programmes\c\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+
